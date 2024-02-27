@@ -1,3 +1,9 @@
+"""
+Author: Yinqin Zhao
+Date: 2024-2-27
+Mail: zyq21@mails.tsinghua.edu.cn
+"""
+
 import sys
 import requests
 from bs4 import BeautifulSoup
